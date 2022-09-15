@@ -24,7 +24,7 @@
   
   - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
   
-  - :zap: In my free time, I solve problems on CodeWars and read tech articles.
+  - :zap: In my free time, I solve problems on CodeWars, LeetCode and read tech articles.
   
   - :mailbox:How to reach me: [![VK](https://img.shields.io/badge/-nikita-blue?style=flat&logo=vk&logoColor=white)](https://vk.com/denwa799)
 </div>
